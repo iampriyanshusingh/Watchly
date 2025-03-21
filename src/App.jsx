@@ -1,9 +1,12 @@
 import "./App.css";
+import Body from "./components/Body";
+import Head from "./components/Head";
 
 function App() {
   return (
     <>
-      <h1 className="border">HEllo World</h1>
+      <Head />
+      <Body />
     </>
   );
 }
