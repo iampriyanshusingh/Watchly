@@ -27,12 +27,3 @@ Welcome to **Watchly**, a full-featured YouTube clone built with modern web tech
 - 🧠 **Custom Hooks** – Efficient logic management
 - 🌐 **Axios** – API Calls
 
----
-
-## 📦 Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/watchly.git
-cd watchly
